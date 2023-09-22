@@ -1,0 +1,118 @@
+.noMini{
+    border: 1px solid #3A2E7D;
+    background-color: #3A2E7D;
+    font-weight: 600;
+    color: #fff; 
+    /* padding: 0 26rem; */
+}
+
+.noMiniRow{
+    padding: 0 26rem;
+}
+
+.headerMain{
+    text-align: center;
+    color: #000000;
+    font-family: "Amethysta", Sans-serif;
+    font-size: 4rem;
+    font-weight: 700;
+    padding-top: 2rem;
+}
+
+.nomiPara p{
+    text-align: center;
+    color: #000000;
+    font-family: "Plus Jakarta Sans", Sans-serif;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 0 11rem;
+    padding-top: 3rem;
+}
+
+.timeLine{
+    text-align: center;
+    color: #000000;
+    font-family: "Plus Jakarta Sans", Sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    width: auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.info1 div{
+    text-align: center;
+    color: #3A2E7D;
+    font-family: "Plus Jakarta Sans", Sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.info1 p{
+    text-align: center;
+    color: #000000;
+    font-family: "Plus Jakarta Sans", Sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.infoRow{
+    padding-top: 3rem;
+}
+
+.attachment-large{
+    width: 10%;
+}
+
+.attachment-large1{
+    width: 30%;
+}
+
+.arrowCol{
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}
+
+.btnCol{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.btnCol button{
+    padding: 0 2rem;
+    font-size: 4rem;
+    border-radius: 50px;
+}
+
+.contRight{
+    text-align: left;
+}
+
+.contRight p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.contRight h1 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+ul li {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+ol li{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.button1{
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    font-weight: 700;
+    background: #fff;
+}
+
